@@ -1,0 +1,22 @@
+E:\saket\SaleFConsole\SaleFConsole\bin\Debug\SaleFConsole.exe.config
+E:\saket\SaleFConsole\SaleFConsole\bin\Debug\SaleFConsole.exe
+E:\saket\SaleFConsole\SaleFConsole\bin\Debug\SaleFConsole.pdb
+E:\saket\SaleFConsole\SaleFConsole\obj\x86\Debug\SaleFConsole.exe
+E:\saket\SaleFConsole\SaleFConsole\obj\x86\Debug\SaleFConsole.pdb
+E:\saket\SaleFConsole-Saket\SaleFConsole\bin\Debug\SaleFConsole.exe.config
+E:\saket\SaleFConsole-Saket\SaleFConsole\obj\x86\Debug\SaleFConsole.exe
+E:\saket\SaleFConsole-Saket\SaleFConsole\obj\x86\Debug\SaleFConsole.pdb
+E:\saket\SaleFConsole-Saket\SaleFConsole\bin\Debug\SaleFConsole.exe
+E:\saket\SaleFConsole-Saket\SaleFConsole\bin\Debug\SaleFConsole.pdb
+E:\saket\SaleFConsole-Saket\SaleFConsole\obj\x86\Debug\SaleFConsole.csprojResolveAssemblyReference.cache
+C:\Saket\New folder\SaleFConsole-Saket\SaleFConsole\bin\Debug\SaleFConsole.exe.config
+C:\Saket\New folder\SaleFConsole-Saket\SaleFConsole\obj\x86\Debug\SaleFConsole.exe
+C:\Saket\New folder\SaleFConsole-Saket\SaleFConsole\obj\x86\Debug\SaleFConsole.pdb
+C:\Saket\New folder\SaleFConsole-Saket\SaleFConsole\bin\Debug\SaleFConsole.exe
+C:\Saket\New folder\SaleFConsole-Saket\SaleFConsole\bin\Debug\SaleFConsole.pdb
+C:\Saket\New folder\SaleFConsole-Saket\SaleFConsole\obj\x86\Debug\SaleFConsole.csprojResolveAssemblyReference.cache
+C:\Saket\salesforce\SaleFConsole-Saket\SaleFConsole\bin\Debug\SaleFConsole.exe.config
+C:\Saket\salesforce\SaleFConsole-Saket\SaleFConsole\bin\Debug\SaleFConsole.exe
+C:\Saket\salesforce\SaleFConsole-Saket\SaleFConsole\bin\Debug\SaleFConsole.pdb
+C:\Saket\salesforce\SaleFConsole-Saket\SaleFConsole\obj\x86\Debug\SaleFConsole.exe
+C:\Saket\salesforce\SaleFConsole-Saket\SaleFConsole\obj\x86\Debug\SaleFConsole.pdb
